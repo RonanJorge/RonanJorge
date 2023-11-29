@@ -14,8 +14,8 @@ Sou Mestre em Matemática pela Unesp e busco novos horizontes no ramo da tecnolo
   <a href="https://github.com/JonathanAlvesNogueira">
   <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
   <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanFelipeJorge&show_icons=true&theme=tokyonight" />
-  <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanFelipeJorge&layout=compact&theme=tokyonight" />
+  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
+  <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
 </a>
 
 </div>
