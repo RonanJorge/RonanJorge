@@ -8,10 +8,10 @@
 -->
 Sou Mestre em Matemática pela Unesp e busco novos horizontes no ramo da tecnologia aliados ao conhecimento já adquirido.
 
-<div>
+<div align = center>
   <a href="https://github.com/RonanJorge">
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
+  <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
+  <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
 </a>
 
 </div>
