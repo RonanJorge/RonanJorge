@@ -1,5 +1,5 @@
 # Olá! Eu sou Ronan Jorge e este é o meu GitHub. Seja bem-vindo!😁
-<a = center>
+<a>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Análise+e+Desenvolvimento+de+Sistemas" 
     alt="Typing SVG" />
     <br>
