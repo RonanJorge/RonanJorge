@@ -12,10 +12,10 @@ Sou Mestre em Matemática pela Unesp e busco novos horizontes no ramo da tecnolo
 <div>
   <H5>Estudante de Análise e Desenvolvimento de Sistemas da Fatec ZL e Mestre em Matemática Pura pela Unesp</h5>
   <a href="https://github.com/RonanJorge">
-  <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
-  <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
-  <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
+- <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
+- <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
++ <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanJorge&show_icons=true&theme=tokyonight" />
++ <img width=40% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanJorge&layout=compact&theme=tokyonight" />
 </a>
 
 </div>
