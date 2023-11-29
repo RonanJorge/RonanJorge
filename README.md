@@ -1,4 +1,4 @@
-# Olá! Meu nome é Ronan Jorge sou estudante do curso de Análise e Desenvolvimento de Sistemas da Fatec ZL. 😁
+# Olá! Eu sou Ronan Jorge e este é o meu GitHub. Seja bem-vindo!😁
 <a>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Análise+e+Desenvolvimento+de+Sistemas" 
     alt="Typing SVG" />
