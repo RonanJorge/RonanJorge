@@ -17,7 +17,7 @@ Sou Mestre em Matemática pela Unesp e busco novos horizontes no ramo da tecnolo
 </div>
 
 <div align=center>
-  <h3><b>📍 Seja bem-vindo, Visitante! </b></h3>
+  <h3><b>Seja bem-vindo, Visitante! </b></h3>
 </div>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/RonanJorge/count.svg" />  
